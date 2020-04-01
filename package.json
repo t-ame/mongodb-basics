@@ -1,0 +1,26 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "![](images/mongo_mongod_exec_files.png)",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"Hello World!\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-ame/mongodb-basics.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "Toya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-ame/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/t-ame/mongodb-basics#readme"
+}
