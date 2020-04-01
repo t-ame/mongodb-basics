@@ -1,3 +1,3 @@
 # mongodb-basics
 
-![](images/FlamingHorse.PNG)
+![](images/mongo_mongod_exec_files.png)
